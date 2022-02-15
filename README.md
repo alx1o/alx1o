@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alx1o
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning what it takes to code
-- 💞️ I’m looking to collaborate on amything that expands my knowledge
+- 💞️ I’m looking to collaborate on anything that expands my knowledge
 - 📫 Message me
 
 <!---
